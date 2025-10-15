@@ -1,4 +1,8 @@
-## Hi there 👋
+## welcome to my github page!
+
+im med, a 17yo game developer and a student. im currently studying cs in cesena, italy.
+other than this i enjoy gaming and playing football and watching it aswell. this is all
+i have to say, this is a brave and short introduction of me :D
 
 <!--
 **med14508/med14508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
